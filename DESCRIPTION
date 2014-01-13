@@ -1,0 +1,22 @@
+Package: csd.toolbox
+Type: Package
+Title: Tools to calculate current source density (CSD) estimates of EEG and ERP
+    data.
+Version: 0.1
+Date: 2013-11-03
+Author: Diogo Almeida <dalazal@gmail.com>
+Maintainer: Diogo Almeida <dalazal@gmail.com>
+Description: Tools to calculate the current density estimates of EEG and ERP
+    data. This is a port of the MATLAB toolbox of the same name by Jurgen
+    Keyser.
+License: GPL (>=2)
+LazyData: true
+Collate:
+    'CalculateCSD.R'
+    'ExtractMontage.R'
+    'GetGH.R'
+    'csd.toolbox-package.R'
+    'pol2cart.R'
+    'sph2cart.R'
+Imports:
+    orthopolynom
