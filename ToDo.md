@@ -18,3 +18,4 @@ There are no dedicated plotting functions for the EEG and CSD data. I need to ad
 * email Dan Wu for her code with Dezhong Yao (paper: Wu & Yao (2007) The azimuth projection for the display of 3-D EEG data). I had this at some point, but I lost it somehow (though look for backups from my old computer).
 
 
+Testing
